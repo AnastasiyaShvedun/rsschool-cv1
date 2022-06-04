@@ -15,3 +15,6 @@ I am a second-year student who are looking for something new. My goal is to gain
 } ``
  ## Work experience
 _Nothing yet_ 
+## Languages 
+* Russian
+* English A2
