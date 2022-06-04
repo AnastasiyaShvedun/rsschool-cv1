@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+}
+
+li {
+    color: maroon;
+}
+
+h1 {
+    color: sienna;
+}
+
+h2 {
+    color: darkred;
+}
